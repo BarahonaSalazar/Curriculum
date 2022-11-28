@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+div {
+    background-image: url(/Assets/img/_mano-de-mujer-escribiendo-en-el_17724162_detail.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 100px 250px;
+    text-align: right;
+}
+h1 {
+    margin-bottom: 100px;
+}
+a {
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    border: solid;
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
